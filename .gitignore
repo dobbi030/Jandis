@@ -1,21 +1,5 @@
-*.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
-local.properties
-
-# Created by https://www.toptal.com/developers/gitignore/api/android,androidstudio,git,kotlin,macos
-# Edit at https://www.toptal.com/developers/gitignore?templates=android,androidstudio,git,kotlin,macos
+# Created by https://www.toptal.com/developers/gitignore/api/android,androidstudio,kotlin,macos,java
+# Edit at https://www.toptal.com/developers/gitignore?templates=android,androidstudio,kotlin,macos,java
 
 ### Android ###
 # Gradle files
@@ -58,6 +42,7 @@ gen-external-apklibs
 # Replacement of .externalNativeBuild directories introduced
 # with Android Studio 3.5.
 
+<<<<<<< HEAD
 ### Git ###
 # Created by git for backups. To disable backups in Git:
 # $ git config --global mergetool.keepBackup false
@@ -74,6 +59,9 @@ gen-external-apklibs
 *_REMOTE_*.txt
 
 ### Kotlin ###
+=======
+### Java ###
+>>>>>>> efa3cdad9baefcb9b0ada7e9cc8fe53aee5aeaab
 # Compiled class file
 *.class
 
@@ -98,6 +86,22 @@ gen-external-apklibs
 hs_err_pid*
 replay_pid*
 
+<<<<<<< HEAD
+=======
+### Kotlin ###
+# Compiled class file
+
+# Log file
+
+# BlueJ files
+
+# Mobile Tools for Java (J2ME)
+
+# Package Files #
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+
+>>>>>>> efa3cdad9baefcb9b0ada7e9cc8fe53aee5aeaab
 ### macOS ###
 # General
 .DS_Store
@@ -248,5 +252,9 @@ fabric.properties
 
 !/gradle/wrapper/gradle-wrapper.jar
 
+<<<<<<< HEAD
 # End of https://www.toptal.com/developers/gitignore/api/android,androidstudio,git,kotlin,macos
 
+=======
+# End of https://www.toptal.com/developers/gitignore/api/android,androidstudio,kotlin,macos,java
+>>>>>>> efa3cdad9baefcb9b0ada7e9cc8fe53aee5aeaab
